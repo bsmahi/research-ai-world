@@ -36,3 +36,47 @@
 
 <hr/>
 
+## 📘 Overview
+
+This repository is a **central hub for everything AI**:
+
+- Frameworks
+- Research papers
+- Tools and libraries
+- Real-world AI use cases
+- Hands-on examples
+- Learning resources
+
+The goal is to make AI exploration **simple, organized, and practical**, covering topics from neural networks to reasoning, agents, and more.
+
+---
+
+## 📁 Project Structure
+
+Below is the project directory layout (**auto-generated ready** section):
+
+```markdown
+research-ai-world/
+├── examples/                       # Practical examples, demo codes, sample AI implementations
+├── frameworks/                     # Overview of AI frameworks, tools, libraries, benchmarks
+├── usecases/                       # Real-world AI use cases categorized by domain
+│   └── maths-logical-reasoning/    # AI reasoning, logic problems, mathematical use cases
+├── .gitignore                      # Git ignore configuration
+└── README.md                       # Project documentation (this file)
+
+```
+
+## 🤝 Contributing
+- Pull requests are welcome!
+- You can contribute by adding:
+- New use cases
+- Research paper notes
+- New examples
+- Framework documentation
+- Improvements to folder structure
+
+## ⭐ Support
+If you find this project useful:
+- ⭐ Star the repo
+- 🍴 Fork it
+- 🗣️ Submit suggestions
