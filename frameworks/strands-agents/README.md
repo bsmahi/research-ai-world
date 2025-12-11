@@ -1,19 +1,15 @@
-# Strands Agents
+# Strands Agents SDK (Python)
 
-**Strands Agents** is an open-source SDK derived from AWS internal tooling to simplify the development of production-ready AI agents. It leverages a "model-driven" approach where LLMs autonomously plan and execute tasks using provided tools.
+**Repository:** [https://github.com/strands-agents/sdk-python](https://github.com/strands-agents/sdk-python)
 
-## 🚀 Key Features
-- **Model-Driven Planning**: LLMs dynamically plan execution paths instead of following rigid workflows.
-- **Tool Use**: Easy integration with Python functions and MCP (Model Context Protocol) servers.
-- **Multi-Agent Orchestration**: Support for agent handoffs and collaborative patterns.
-- **Production Ready**: Built-in observability and tracing support.
+## Overview
+Strands Agents provides a model-driven approach to building AI agents in just a few lines of code. It focuses on simplicity and composability.
 
-## 📦 Installation
-```bash
-pip install strands-agents
-```
-*(Note: Check the official repository for the exact package name if different).*
+## Key Features
+- **Model-Driven:** Build agents centered around model capabilities.
+- **MCP Support:** Integrates with Model Context Protocol.
+- **Bidirectional Streaming:** Supports real-time interaction patterns.
+- **Multiple Providers:** Works with various model providers.
 
-## 📚 Resources
-- **Website**: [strandsagents.com](https://strandsagents.com)
-- **GitHub Repository**: Search for `strands-agents` on GitHub.
+## Installation
+(Refer to the repository for the latest installation instructions)
