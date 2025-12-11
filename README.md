@@ -114,9 +114,8 @@ Pull requests are welcome! You can contribute by adding new use cases, research 
     git commit -s -m "feat(core): Implement the new feature"
     ```
 > [!IMPORTANT]
-
-6. **Keep Branch Updated**. Before pushing, and periodically during development, update your branch with the latest changes from the upstream `main` branch using rebase (NEVER merge):
-    ```shell
+> **Keep Branch Updated**. Before pushing, and periodically during development, update your branch with the latest changes from the upstream `main` branch using rebase (NEVER merge):
+6.  ```shell
     # Add upstream remote if you haven't already
     git remote add upstream https://github.com/arconia-io/arconia.git
 
